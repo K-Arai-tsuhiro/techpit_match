@@ -1,0 +1,11 @@
+{
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  }
+}
